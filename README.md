@@ -14,9 +14,9 @@ and I'm constantly learning new techniques in deep learning, image processing, a
 
 
 ## 🔬 **Research Interests:**
-- Computer Vision: Object detection, image classification, semantic segmentation
-- NLP: Text classification, sentiment analysis, language modeling
-- Multimodal AI: Vision-language model safety, cross-modal understanding
+- **Computer Vision**: Object detection, image classification, semantic segmentation
+- **NLP**: Text classification, sentiment analysis, language modeling
+- **Multimodal AI**: Vision-language model safety, cross-modal understanding
 
 ## 📖 **Currently Learning:**
 - Advanced deep learning architectures
