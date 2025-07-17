@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**woonzzzang/woonzzzang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, world! I'm Da Woon Jeong
+## About Me
+I'm a passionate developer focused on Computer Vision and Natural Language Processing. 
+My interests lie in exploring how machines can understand both visual and textual information, 
+and I'm constantly learning new techniques in deep learning, image processing, and language models.
 
-Here are some ideas to get you started:
+🔬 **Research Interests:**
+- Computer Vision: Object detection, image classification, semantic segmentation
+- NLP: Text classification, sentiment analysis, language modeling
+- Multimodal AI: Vision-language model safety, cross-modal understanding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📖 **Currently Learning:**
+- Advanced deep learning architectures
+- Transformer models and attention mechanisms
+- State-of-the-art CV and NLP frameworks
