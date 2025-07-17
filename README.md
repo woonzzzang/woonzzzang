@@ -5,6 +5,13 @@ I'm a passionate developer focused on Computer Vision and Natural Language Proce
 My interests lie in exploring how machines can understand both visual and textual information, 
 and I'm constantly learning new techniques in deep learning, image processing, and language models.
 
+👻 **Skills**
+- Languages
+<img src="https://img.shields.io/badge/:badgeContent?logo=python&logoColor=3776AB"/>
+
+- Tools
+
+
 🔬 **Research Interests:**
 - Computer Vision: Object detection, image classification, semantic segmentation
 - NLP: Text classification, sentiment analysis, language modeling
