@@ -1,5 +1,5 @@
 
-# 👋 Hello, world! I'm Da Woon Jeong
+# 👋 Hello, world! I'm Down
 ## About Me
 I'm a passionate developer focused on Computer Vision and Natural Language Processing. 
 My interests lie in exploring how machines can understand both visual and textual information, 
